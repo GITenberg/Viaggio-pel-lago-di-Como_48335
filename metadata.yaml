@@ -1,10 +1,16 @@
 _repo: Viaggio-pel-lago-di-Como_48335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48335-h/images/cover.jpg
 creator:
   author:
     agent_name: Giovio, Giambattista
     gutenberg_agent_id: '44741'
     url: http://www.gutenberg.org/2009/agents/44741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48335#Viaggio-pel-lago-di-Como
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2015-02-21'
 gutenberg_type: Text
